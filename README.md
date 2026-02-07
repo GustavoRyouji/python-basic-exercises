@@ -11,3 +11,13 @@ while learning the basics of the language.
 - Simple calculations
 
 More exercises will be added over time.
+
+## Exercises
+- Speed radar simulation
+- Even or odd number checker
+- Travel cost calculator based on distance
+- Leap year checker
+- Find the largest and smallest number among three values
+- Salary increase calculator
+- Number guessing game
+- triangle_checker
