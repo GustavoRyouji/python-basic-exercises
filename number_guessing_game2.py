@@ -1,3 +1,5 @@
+#A simple number guessing game using while loop.
+
 from random import randint
 tentativas = 1
 n = randint(0, 10)
@@ -11,3 +13,4 @@ while t != n:
     tentativas +=1
     
 print('Parabéns! Você acertou em {} tentativas! '.format(tentativas))
+
