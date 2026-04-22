@@ -4,7 +4,7 @@ This repository contains practical Python exercises focused on building a strong
 
 ## Topics Covered
 
-* Control flow (if, elif, else)
+* conditionals (if, elif, else)
 * Loops (for, while)
 * Lists (simple and nested)
 * Basic user input handling
