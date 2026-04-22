@@ -1,39 +1,36 @@
-# python-basic-exercises
+# Python Basic Exercises
 
-Basic Python exercises to practice logic, conditionals and loops.
-
-This repository contains Python exercises I completed while learning the fundamentals of programming and problem-solving using Python.
+This repository contains practical Python exercises focused on building a strong foundation in programming logic.
 
 ## Topics Covered
 
-- Conditionals (if / elif / else)
-- Loops (for / while)
-- Input validation
-- Counters and accumulators
-- Menu-based programs
-- Basic number systems (binary, octal, hexadecimal)
-- Logical problem solving
+* Control flow (if, elif, else)
+* Loops (for, while)
+* Lists (simple and nested)
+* Basic user input handling
 
-## Exercises
+## Objective
 
-### Conditionals
-- Speed radar simulation
-- Even or odd number checker
-- Travel cost calculator based on distance
-- Leap year checker
-- Find the largest and smallest number among three values
-- Salary increase calculator
-- Triangle checker
+The goal of this repository is to develop solid Python fundamentals as a preparation for data analysis, including future studies in:
 
-### Loops (for)
-- Multiplication table generator
-- Count and sum of odd numbers between 1 and 500
-- Age statistics system (average age, oldest man, women under 20)
+* SQL
+* Pandas
+* Data manipulation
 
-### Loops (while)
-- Number guessing game
-- Gender input validation system
-- Interactive calculator with menu system
-- Number base converter (binary, octal, hexadecimal)
+## Progress
 
-More exercises will be added as I continue learning.
+This repository is continuously updated as I advance in my studies and improve my problem-solving skills.
+
+## Approach
+
+Each exercise is designed to reinforce logical thinking and understanding of core programming concepts, rather than just producing working code.
+
+## Next Steps
+
+* Functions (`def`)
+* Dictionaries
+* Introduction to data analysis with Pandas
+
+---
+
+Feel free to explore the code and follow my learning journey.
