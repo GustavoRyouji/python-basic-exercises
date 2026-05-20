@@ -4,33 +4,56 @@ This repository contains practical Python exercises focused on building a strong
 
 ## Topics Covered
 
-* conditionals (if, elif, else)
-* Loops (for, while)
+* Conditionals (`if`, `elif`, `else`)
+* Loops (`for`, `while`)
 * Lists (simple and nested)
+* Dictionaries
+* Functions
 * Basic user input handling
+* Data organization and analysis
+* Input validation
 
 ## Objective
 
-The goal of this repository is to develop solid Python fundamentals as a preparation for data analysis, including future studies in:
+The goal of this repository is to develop solid Python fundamentals as preparation for future studies in:
 
-* SQL
 * Pandas
+* SQL
+* Data analysis
 * Data manipulation
 
 ## Progress
 
-This repository is continuously updated as I advance in my studies and improve my problem-solving skills.
+This repository is continuously updated as I advance in my studies and improve my problem-solving and logical thinking skills.
 
 ## Approach
 
-Each exercise is designed to reinforce logical thinking and understanding of core programming concepts, rather than just producing working code.
+The exercises focus on:
+- Programming logic
+- Structured data handling
+- Function creation
+- Problem solving
+- Code organization
+- Reusable code
 
-## Next Steps
+Rather than simply producing working code, the main objective is to understand how and why the solutions work.
 
-* Functions (`def`)
-* Dictionaries
-* Introduction to data analysis with Pandas
+## Repository Structure
 
----
+```text
+python-basic-exercises/
+│
+├── lists/
+├── dictionaries/
+├── functions/
+├── conditions/
+├── loops/
+└── README.md
+Next Steps
+Error handling
+Modules and packages
+File handling
+Introduction to Pandas
+Data analysis projects
 
 Feel free to explore the code and follow my learning journey.
