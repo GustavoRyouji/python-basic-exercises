@@ -51,11 +51,12 @@ python-basic-exercises/
 └── README.md
 ```
 
-Next Steps
-Error handling
-Modules and packages
-File handling
-Introduction to Pandas
-Data analysis projects
+## Next Steps
 
+* Error handling
+* Modules and packages
+* File handling
+* Introduction to Pandas
+* Data analysis projects
+  
 Feel free to explore the code and follow my learning journey.
