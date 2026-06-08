@@ -53,13 +53,21 @@ python-basic-exercises/
 │
 
 ├── lists/
+
 ├── dictionaries/
+
 ├── functions/
+
 ├── conditionals/
+
 ├── loops/
+
 ├── modules/
+
 ├── error_handling/
+
 ├── projects/
+
 └── README.md
 
 ## Projects
