@@ -1,1 +1,14 @@
+# Sistema de Cadastro
 
+Projeto desenvolvido em Python para praticar:
+
+- Modularização
+- Manipulação de arquivos
+- Tratamento de erros
+- Menus interativos
+
+## Funcionalidades
+
+- Cadastrar clientes
+- Listar clientes cadastrados
+- Armazenar informações em arquivo
