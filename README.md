@@ -9,16 +9,21 @@ This repository contains practical Python exercises focused on building a strong
 * Lists (simple and nested)
 * Dictionaries
 * Functions
+* Modules and packages
+* Error handling
 * Basic user input handling
 * Data organization and analysis
 * Input validation
+* File handling
+* Code organization
 
 ## Objective
 
 The goal of this repository is to develop solid Python fundamentals as preparation for future studies in:
 
-* Pandas
+* SQLite
 * SQL
+* Pandas
 * Data analysis
 * Data manipulation
 
@@ -29,34 +34,53 @@ This repository is continuously updated as I advance in my studies and improve m
 ## Approach
 
 The exercises focus on:
-- Programming logic
-- Structured data handling
-- Function creation
-- Problem solving
-- Code organization
-- Reusable code
+
+* Programming logic
+* Structured data handling
+* Function creation
+* Problem solving
+* Code organization
+* Reusable code
+* Modular programming
+* Error handling
 
 Rather than simply producing working code, the main objective is to understand how and why the solutions work.
 
 ## Repository Structure
 
-```text
 python-basic-exercises/
+
 │
+
 ├── lists/
 ├── dictionaries/
 ├── functions/
-├── conditions/
+├── conditionals/
 ├── loops/
+├── modules/
+├── error_handling/
+├── projects/
 └── README.md
-```
+
+## Projects
+
+### Customer Registration System
+
+A console-based customer registration system developed to practice:
+
+* Modular programming
+* File handling
+* Error handling
+* Data persistence
+* Code organization
 
 ## Next Steps
 
-* Error handling
-* Modules and packages
-* File handling
-* Introduction to Pandas
+* SQLite
+* SQL fundamentals
+* Library management system project
+* Pandas
 * Data analysis projects
-  
+* Data manipulation
+
 Feel free to explore the code and follow my learning journey.
